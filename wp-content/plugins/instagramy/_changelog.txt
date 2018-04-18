@@ -1,0 +1,20 @@
+*** Instagramy Changelog ***
+-------------------------------------------------------------------------
+
+Version 1.0.2 - 27-01-2014
+- Improved: Plugin Speed by removing @import from the main style.css file .
+
+
+-------------------------------------------------------------------------
+
+
+Version 1.0.1 - 09-12-2014
+- Improved: Plugin Speed by combining all Js files in one file .
+- Fixed: Documentation URL in the backend .
+
+
+-------------------------------------------------------------------------
+
+
+Version 1.0.0
+- First release
